@@ -1,2 +1,2 @@
 # Project-X
-This is the repo for frontend of Go fare web application 
+This is the repo for frontend of Go-fare web application 
