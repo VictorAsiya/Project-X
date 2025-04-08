@@ -9,7 +9,7 @@ function App() {
       <SC.Section>
         <SC.Top>
           <SC.Title>Go Fare</SC.Title>
-          <h3 style={{margin: "0", paddingTop: "10px", fontWeight: "700", fontSize: "25px"}}>Select Your View</h3>
+          <h3 style={{margin: "0", paddingTop: "10px", fontWeight: "700", fontSize: "25px"}}>Select Your View</h4>
           <p style={{margin: "0", paddingTop: "5px", color: "rgb(135, 126, 126)"}}>Choose how you want to access the Go Fare transport platform</p>
         </SC.Top>
 
